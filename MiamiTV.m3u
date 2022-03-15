@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Miami TV Colombia (18+)
+#EXTINF:-1 tvg-id="Miami TV Colombia (18+)"
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
